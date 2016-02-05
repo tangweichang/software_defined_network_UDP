@@ -1,0 +1,150 @@
+client 6 start success!
+Thu Feb 04 22:12:38 EST 2016 Sending register information to localhost on port 5000
+Thu Feb 04 22:12:38 EST 2016 switch 1 is alive
+Thu Feb 04 22:12:38 EST 2016 switch 3 is alive
+Thu Feb 04 22:12:38 EST 2016 register success
+Thu Feb 04 22:12:38 EST 2016 start listening
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+1		6		80		10
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+2		1		80		20
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+3		6		150		20
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+4		1		80		40
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+5		2		80		40
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+6		0		INF		0
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+1		0		0		INF
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+2		0		0		INF
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+3		0		0		INF
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+4		0		0		INF
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+6		0		INF		0
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+5		0		0		INF
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+1		6		80		10
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+2		1		80		20
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+3		2		50		30
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+4		1		80		40
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+5		2		80		40
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+6		0		INF		0
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+1		6		80		10
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+2		1		80		20
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+3		6		150		20
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+4		1		80		40
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+5		2		80		40
+Thu Feb 04 22:12:38 EST 2016
+new routing info
+dest		router		band		leg
+6		0		INF		0
+Thu Feb 04 22:12:39 EST 2016
+new routing info
+dest		router		band		leg
+1		6		80		10
+Thu Feb 04 22:12:39 EST 2016
+new routing info
+dest		router		band		leg
+2		1		80		20
+Thu Feb 04 22:12:39 EST 2016
+new routing info
+dest		router		band		leg
+3		6		150		20
+Thu Feb 04 22:12:39 EST 2016
+new routing info
+dest		router		band		leg
+4		1		80		40
+Thu Feb 04 22:12:39 EST 2016
+new routing info
+dest		router		band		leg
+5		2		80		40
+Thu Feb 04 22:12:39 EST 2016
+new routing info
+dest		router		band		leg
+6		0		INF		0
+Thu Feb 04 22:12:39 EST 2016
+new routing info
+dest		router		band		leg
+1		6		80		10
+Thu Feb 04 22:12:39 EST 2016
+new routing info
+dest		router		band		leg
+2		1		80		20
+Thu Feb 04 22:12:39 EST 2016
+new routing info
+dest		router		band		leg
+3		6		150		20
+Thu Feb 04 22:12:39 EST 2016
+new routing info
+dest		router		band		leg
+4		1		80		40
+Thu Feb 04 22:12:39 EST 2016
+new routing info
+dest		router		band		leg
+5		2		80		40
+Thu Feb 04 22:12:39 EST 2016
+new routing info
+dest		router		band		leg
+6		0		INF		0
